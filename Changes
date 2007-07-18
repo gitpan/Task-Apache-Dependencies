@@ -1,0 +1,6 @@
+Revision history for Perl extension Task::Apache::Dependencies.
+
+0.01  Mon Jul 16 16:37:53 2007
+	- original version; created by h2xs 1.23 with options
+		--compat-version=5.6.0 -AXcfn Task::Apache::Dependencies
+
